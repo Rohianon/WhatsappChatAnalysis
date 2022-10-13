@@ -57,6 +57,7 @@ were active at the start but the trend of charting decreased as time went by. We
 the days that were mostly active whereas Teuesdays and Sartudays were the most dull days in the group.
 The analysis found out that Ruth Stam was the runners up when it came to sending messages in the group.
 Fatih was the 10th most active person. The Visualization is shown in the pictogram below.
+
 ![image](https://user-images.githubusercontent.com/41194018/195557460-567c73a3-631e-4cc0-9023-3b7697106c78.png)
 
 ![image](https://user-images.githubusercontent.com/41194018/195557637-5eff27a5-a8a4-42b0-a7d8-a3d050458727.png)
