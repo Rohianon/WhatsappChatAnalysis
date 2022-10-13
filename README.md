@@ -56,7 +56,12 @@ words. From the Time series chart, it is clear that the group was formed in Sept
 were active at the start but the trend of charting decreased as time went by. Wednesdays and Fridays were
 the days that were mostly active whereas Teuesdays and Sartudays were the most dull days in the group.
 The analysis found out that Ruth Stam was the runners up when it came to sending messages in the group.
-Fatih was the 10th most active person. The Visualization is shown in the pictogram below.Conclusion
+Fatih was the 10th most active person. The Visualization is shown in the pictogram below.
+![image](https://user-images.githubusercontent.com/41194018/195557460-567c73a3-631e-4cc0-9023-3b7697106c78.png)
+
+![image](https://user-images.githubusercontent.com/41194018/195557637-5eff27a5-a8a4-42b0-a7d8-a3d050458727.png)
+
+#### Conclusion
 Clearly, sentiment analysis can help us discover patterns which can then be visualized well in Dashboards.
 It was possible to discover this and indeed get to the bottom of the class whatsapp group. More can be
 done to this such as entity recognition and finding out if there are any positive and negative sentiments in
